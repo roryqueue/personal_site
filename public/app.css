@@ -1,0 +1,32 @@
+body {
+  font-family: 'Gloria Hallelujah', cursive;
+  text-decoration: none;
+  color: #EB593C;
+  background-color: #ABDCD6;
+  font-size: 24pt;
+}
+
+#header > li {
+  display: inline;
+}
+
+a {
+  text-decoration: none;
+  color: #4540D6;
+}
+
+.portfolio, .social, .contact {
+  list-style: none;
+}
+
+.portfolio {
+  margin-left: 5%;
+}
+
+.social {
+  margin-left: 15%;
+}
+
+.contact {
+  margin-left: 12%;
+}

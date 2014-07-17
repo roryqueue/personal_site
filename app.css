@@ -1,0 +1,14 @@
+
+#all {
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 36;
+  text-decoration: none;
+  color: #EB593C;
+  background-color: #ABDCD6;
+}
+
+#header {
+  display: inline;
+  margin-left: auto;
+  margin-right: auto;
+}
